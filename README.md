@@ -10,16 +10,14 @@
 <br>
 <br>
 
-## **Installation and Usage**
-<br>
 
 ## Click the links below to access the page and repository successively
 <br>
 
->![Horiseon Page](https://andis90.github.io/Horiseon-Refactor/)
+>[Horiseon Page](https://andis90.github.io/Horiseon-Refactor/)
 <br>
 
->![Horiseon-Refactor Repository](https://github.com/AndiS90/Horiseon-Refactor)
+>[Horiseon-Refactor Repository](https://github.com/AndiS90/Horiseon-Refactor)
 <br>
 
 ![Screenshot](/assets/images/screenshot.png)
@@ -29,11 +27,11 @@
 ## **Credits**
 <br>
 
- ![CanAdapt Web Accessibility Training](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
+ [CanAdapt Web Accessibility Training](https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html)
 
 <br>
 
-![License](/assets/license.txt)
+### [License](/assets/license.txt)
 
 <br>
 
