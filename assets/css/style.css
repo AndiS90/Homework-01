@@ -1,13 +1,26 @@
+
+/*Global Styling*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 body {
     background-color: #d9dcd6;
 }
+/*End Global Styling*/
 
+/*Header Styling*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +53,9 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/*End Header Styling*/
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/*Predominant Image Styling*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +64,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*End Predominant Image Styling */
 
+/*Main Content Styling*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -92,7 +100,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*End Main Content Styling*/
 
+/*Sidebar Styling*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -119,8 +129,9 @@ aside section img {
     margin: 10px auto;
     max-width: 150px;
 }
+/*End Sidebar Styling*/
 
-
+/*Footer Styling*/
 footer {
     padding: 30px;
     clear: both;
@@ -131,3 +142,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/*End Footer Styling*/
