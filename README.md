@@ -17,10 +17,10 @@
 ## Click the links below to access the page and repository respectively.
 <br>
 
->[Horiseon Page](https://andis90.github.io/Horiseon-Refactor/)
+ - [Horiseon Page](https://andis90.github.io/Horiseon-Refactor/)
 <br>
 
->[Horiseon-Refactor Repository](https://github.com/AndiS90/Horiseon-Refactor)
+ - [Horiseon-Refactor Repository](https://github.com/AndiS90/Horiseon-Refactor)
 <br>
 
 ![Screenshot](/assets/images/screenshot.png)
