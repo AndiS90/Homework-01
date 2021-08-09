@@ -23,7 +23,7 @@
  - [Horiseon-Refactor Repository](https://github.com/AndiS90/Horiseon-Refactor)
 <br>
 
-![Screenshot](/assets/images/screenshot.png)
+![Screenshot](./assets/images/screenshot.png)
 
 <br>
 
