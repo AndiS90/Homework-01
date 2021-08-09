@@ -32,7 +32,7 @@
 
 <br>
 
-### [License](/assets/License.txt)
+### [License](./assets/License.txt)
 
 <br>
 
